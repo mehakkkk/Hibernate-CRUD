@@ -4,7 +4,7 @@
 		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
 		<property name="connection.url">jdbc:mysql://localhost:3306/Company?useSSL=false</property>
 		<property name="connection.username">root</property>
-		<property name="connection.password">Momislove</property>
+		<property name="connection.password">xyz</property>
 		<!--  JDBC connection pool settings ... using built-in test pool  -->
 		<property name="connection.pool_size">1</property>
 		<!--  Select our SQL dialect  -->
