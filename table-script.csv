@@ -1,0 +1,8 @@
+Table,"Create Table"
+Employee,"CREATE TABLE `Employee` (
+  `firstName` varchar(20) DEFAULT NULL,
+  `lastName` varchar(20) DEFAULT NULL,
+  `doj` date DEFAULT NULL,
+  `EmpID` int(11) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`EmpID`)
+) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=latin1"
